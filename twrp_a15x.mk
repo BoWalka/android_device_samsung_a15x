@@ -22,7 +22,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/a15x/recove
 PRODUCT_DEVICE := a15x
 PRODUCT_NAME := twrp_a15x
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-A156E
+PRODUCT_MODEL := SM-A156UI
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
